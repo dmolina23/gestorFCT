@@ -1,6 +1,10 @@
 # <center>APP Gestor de Formación en Centros de Trabajo</center>
 ### <center>David Molina Gámez</center>
 
+<video width="320" height="240" controls>
+  <source src="resources/gestorFCT.mp4" type="video/mp4">
+</video>
+
 &nbsp;
 
 &nbsp;
