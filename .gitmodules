@@ -1,8 +1,8 @@
 [submodule "gestorFCT-back"]
-    path = ./gestorFCT-back
+    path = gestorFCT-back
     url = https://github.com/dmolina23/gestor_fct_back
 
 
 [submodule "gestor_fct"]
-    path = ./gestor_fct
+    path = gestor_fct
     url = https://github.com/dmolina23/gestor_fct_front
