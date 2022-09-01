@@ -2,7 +2,7 @@
 ### <center>David Molina Gámez</center>
 
 <video width="320" height="240" controls>
-  <source src="resources/gestorFCT.mp4" type="video/mp4">
+  <source src="https://github.com/dmolina23/gestorFCT/blob/master/resources/gestorFCT.mp4" type="video/mp4">
 </video>
 
 &nbsp;
