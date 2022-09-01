@@ -6,12 +6,6 @@
 
 &nbsp;
 
-<p align="center">
-<img src="assets/logo.png" />
-</p>
-
-&nbsp;
-
 &nbsp;
 
 ### <center>David Molina Gámez</center>
