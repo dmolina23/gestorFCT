@@ -1,16 +1,5 @@
-## <center>Proyecto de ciclo de Grado Superior de Desarrollo de Aplicaciones Multiplataforma<center>
-
-&nbsp;
-
 # <center>APP Gestor de Formación en Centros de Trabajo</center>
-
-&nbsp;
-
-&nbsp;
-
 ### <center>David Molina Gámez</center>
-
-### <center>2º DAM</center>
 
 &nbsp;
 
